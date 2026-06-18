@@ -28,7 +28,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-6d28d9?style=for-the-badge)](https://your-live-link.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-6d28d9?style=for-the-badge)](https://dyscalculia-pawf.onrender.com)
 [![GitHub Stars](https://img.shields.io/github/stars/rathanshet/dyscalculia?style=social)](https://github.com/rathanshet/dyscalculia)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
